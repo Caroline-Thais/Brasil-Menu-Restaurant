@@ -1,4 +1,7 @@
 # Brasil-Menu-Restaurant
+Site de restaurante com sistema de pedidos online.<br>
+Tecnologias: C# .NET
+--
 Restaurant website with online ordering system.<br>
 Technologies: C# .NET 
 
