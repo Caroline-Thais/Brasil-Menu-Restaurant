@@ -4,6 +4,7 @@ Tecnologias: C# .NET
 --
 Restaurant website with online ordering system.<br>
 Technologies: C# .NET 
+<p><img src="https://img.icons8.com/plasticine/344/stack-of-photos.png" height="40em"> Galeria:</p>
 
 ![bm1](https://user-images.githubusercontent.com/76595905/151567244-4a0f1f8d-79b8-4993-9281-15a6e7e5befa.PNG)
 ![bm2](https://user-images.githubusercontent.com/76595905/151567264-daae1500-2835-4cb2-8712-3f65854f4710.PNG)
