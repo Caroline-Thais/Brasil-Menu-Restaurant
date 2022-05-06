@@ -12,3 +12,9 @@ Technologies: C# .NET
 ![bm4](https://user-images.githubusercontent.com/76595905/151567275-f52d9c09-a8af-4e81-a0c5-1c4608cafa5c.PNG)
 ![bm5](https://user-images.githubusercontent.com/76595905/151567294-b48b10b2-8807-4fc9-8469-5fa7655a705d.PNG)
 ![bm6](https://user-images.githubusercontent.com/76595905/151567302-f3788b94-1cf7-4637-8d81-e2880f7a73d9.PNG)
+
+---
+<div align="center">
+Desenvolvido por THAÍS CAROLINE SILVA 
+<img src="https://cdn-icons-png.flaticon.com/512/2618/2618497.png" height="40em"> 
+</div>
